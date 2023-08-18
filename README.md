@@ -5,8 +5,8 @@
 
 ### I've been acting as a Machine Learning Scientist for almost 5 years, and this page will act as my personal space for publishing experiments, packages and projects I feel will aggregate to my learnings and help many others. 
 
-- 🔭 I'll be publishing my personal data-related projects, which may very between topics such as Risk Credit, Audio Decodification, Natural Language Processing, among others 
-- 🌱 Plus, I'll also be publishing projects for study topics of my own curiosity, such as Software Engineering, Mobile Development, Data/Cloud Engineering, etc...
+- 🔭 I'll be publishing my personal data-related projects, which may very between topics such as Large Language Models, Audio Decodification, Natural Language Processing, Articles Implementations, among others. 
+- 🌱 Plus, I'll also be publishing projects for study topics of my own curiosity, such as Software Engineering, Backend Development, Data/Cloud Engineering, etc...
 - 👯 I’m looking foward to collaborate with many other developers 
 - 🤔 I’m always open for new information and looking for help with any topic I might find interesting
 - 🥅 2022 Goals: Publish more projects here and get a good grasp of, mainly, NLP projects.
