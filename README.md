@@ -3,7 +3,7 @@
 # Hello There 👋 I'm Guilherme Silva and welcome to my Github page!
 
 
-### I've been acting as a Data Scientist for almost 2 years, and this page will act as my personal space for publishing experiments, packages and projects I feel will aggregate to my learnings and help many others. 
+### I've been acting as a Machine Learning Scientist for almost 5 years, and this page will act as my personal space for publishing experiments, packages and projects I feel will aggregate to my learnings and help many others. 
 
 - 🔭 I'll be publishing my personal data-related projects, which may very between topics such as Risk Credit, Audio Decodification, Natural Language Processing, among others 
 - 🌱 Plus, I'll also be publishing projects for study topics of my own curiosity, such as Software Engineering, Mobile Development, Data/Cloud Engineering, etc...
