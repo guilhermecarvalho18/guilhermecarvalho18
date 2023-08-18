@@ -7,10 +7,6 @@
 
 - 🔭 I'll be publishing my personal data-related projects, which may very between topics such as Large Language Models, Audio Decodification, Natural Language Processing, Articles Implementations, among others. 
 - 🌱 Plus, I'll also be publishing projects for study topics of my own curiosity, such as Software Engineering, Backend Development, Data/Cloud Engineering, etc...
-- 👯 I’m looking foward to collaborate with many other developers 
-- 🤔 I’m always open for new information and looking for help with any topic I might find interesting
-- 🥅 2022 Goals: Publish more projects here and get a good grasp of, mainly, NLP projects.
-- ⚡ Fun fact: I'd love to learn how to play instruments and, maybe, produce my own music (who knows, maybe even publish what I create)
 - 😄 Pronouns: I go by he/him, but feel free to address me however you may feel comfortable (as long as you don't offend me)
 
 
